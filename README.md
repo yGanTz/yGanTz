@@ -14,7 +14,7 @@
  
 <br>
  
-### Dev Jr iniciante do mais inicio possivel.
+### Desenvolvedor Fron-End Jr.
  
 <div> 
 
