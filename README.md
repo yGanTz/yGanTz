@@ -15,7 +15,7 @@
  
 <br>
  
-### Desenvolvedor Fron-End Jr.
+### Desenvolvedor Back-End Jr.
  
 <div> 
 
